@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.MechtaTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-09-02T16:59:10" hostname="DESKTOP-L68VFSM" time="30.896">
+<testsuite name="tests.MechtaTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-09-02T17:24:26" hostname="DESKTOP-L68VFSM" time="22.99">
   <properties/>
-  <testcase name="После открытия страницы Красота и здоровье должен присутствовать текст {1}" classname="tests.MechtaTest" time="7.46"/>
-  <testcase name="После поиска Смартфоны и гаджеты открылась страница с информацией о товаре Смартфоны и гаджеты" classname="tests.MechtaTest" time="8.045"/>
-  <testcase name="После поиска Ноутбуки и компьютеры открылась страница с информацией о товаре Ноутбуки и компьютеры" classname="tests.MechtaTest" time="2.293"/>
-  <testcase name="После поиска Игры, консоли и развлечения открылась страница с информацией о товаре Игры, консоли и развлечения" classname="tests.MechtaTest" time="2.132"/>
-  <testcase name="После поиска ТВ, аудио, видео открылась страница с информацией о товаре ТВ, аудио, видео" classname="tests.MechtaTest" time="1.732"/>
-  <testcase name="После открытия каталога выбираем название категории Смартфоны и гаджеты" classname="tests.MechtaTest" time="2.807"/>
-  <testcase name="После открытия каталога выбираем название категории Ноутбуки и компьютеры" classname="tests.MechtaTest" time="2.084"/>
-  <testcase name="После открытия каталога выбираем название категории Игры, консоли и развлечения" classname="tests.MechtaTest" time="2.177"/>
-  <testcase name="После открытия каталога выбираем название категории ТВ, аудио, видео" classname="tests.MechtaTest" time="2.144"/>
+  <testcase name="После открытия страницы Красота и здоровье должен присутствовать текст {1}" classname="tests.MechtaTest" time="6.694"/>
+  <testcase name="После поиска Смартфоны и гаджеты открылась страница с информацией о товаре Смартфоны и гаджеты" classname="tests.MechtaTest" time="2.87"/>
+  <testcase name="После поиска Ноутбуки и компьютеры открылась страница с информацией о товаре Ноутбуки и компьютеры" classname="tests.MechtaTest" time="3.574"/>
+  <testcase name="После поиска Игры, консоли и развлечения открылась страница с информацией о товаре Игры, консоли и развлечения" classname="tests.MechtaTest" time="1.652"/>
+  <testcase name="После поиска ТВ, аудио, видео открылась страница с информацией о товаре ТВ, аудио, видео" classname="tests.MechtaTest" time="1.53"/>
+  <testcase name="После открытия каталога выбираем название категории Смартфоны и гаджеты" classname="tests.MechtaTest" time="1.989"/>
+  <testcase name="После открытия каталога выбираем название категории Ноутбуки и компьютеры" classname="tests.MechtaTest" time="1.543"/>
+  <testcase name="После открытия каталога выбираем название категории Игры, консоли и развлечения" classname="tests.MechtaTest" time="1.531"/>
+  <testcase name="После открытия каталога выбираем название категории ТВ, аудио, видео" classname="tests.MechtaTest" time="1.583"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-Starting ChromeDriver 116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382}) on port 25225
+Starting ChromeDriver 116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382}) on port 34627
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-сент. 02, 2023 10:59:12 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+сент. 02, 2023 11:24:28 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 116, so returning the closest version found: 113
 ]]></system-err>
 </testsuite>
