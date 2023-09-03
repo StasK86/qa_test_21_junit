@@ -10,7 +10,7 @@ public class MechtaObjects {
 
     SelenideElement
             catalogSet = $(".text-ts7"),
-            resultSet = $(".q-list"),
+            resultSet = $(".catalog-menu-cont"),
             setShould = $(".text-ts5"),
             clickSet = $(".q-list");
 

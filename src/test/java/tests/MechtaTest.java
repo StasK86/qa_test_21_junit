@@ -65,11 +65,11 @@ public class MechtaTest extends TestBase {
                 delimiter = '|')
         @ParameterizedTest(name = "После открытия страницы {0} должен присутствовать текст {1}")
         @DisplayName("Переходим на страницу для проверки")
-        void openCatalogSource(String setCategory) {
+        void openCatalogSource(String getCategory) {
             mechtaPage
                     .openCatalog()
-                    .setClick(setCategory)
-                    .shouldSet(setCategory);
+                    .setClick(getCategory)
+                    .shouldSet(getCategory);
 
         }
     }
